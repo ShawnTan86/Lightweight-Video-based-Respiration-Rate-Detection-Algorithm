@@ -24,6 +24,7 @@ pip install scipy==1.11.3
 pip install matplotlib==3.7.2
 ```
 cd [Your installation directory]
+
 python main.py --video-path ./test1.avi
 
 
