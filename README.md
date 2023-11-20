@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 
-By [Menghan Hu]([https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp)), [Xudong Tan](https://scholar.google.com/citations?user=6wfIBLgAAAAJ&hl=zh-CN&oi=sra)
+By [Menghan Hu](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp), [Xudong Tan](https://scholar.google.com/citations?user=6wfIBLgAAAAJ&hl=zh-CN&oi=sra)
 
 If you have any questions, please contact Xudong Tan (shawntannnn@gmail.com).
 
@@ -16,17 +16,16 @@ This is a lightweight non-contact respiratory signal detection algorithm suitabl
 ![image](https://github.com/ShawnTan86/Lightweight-Video-based-Respiration-Rate-Detection-Algorithm/blob/main/lmagesFolderForReadMe/Application%20diagram.png)
 
 ## Getting Started
+```bash
 conda create -n IOF python=3.9
 pip install opencv-python==4.8.0
 pip install numpy==1.24.1
 pip install scipy==1.11.3
 pip install matplotlib==3.7.2
-
-cd [Your installation directory]
-
-```bash
-python main.py --video-path ./test1.avi
 ```
+cd [Your installation directory]
+python main.py --video-path ./test1.avi
+
 
 
 
