@@ -13,5 +13,18 @@ By [Menghan Hu]([https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en
 This is a lightweight non-contact respiratory signal detection algorithm suitable for daily use and applicable in ICU scenarios.
 ![](./lmagesFolderForReadMe/Application diagram.png)
 
+## Getting Started
+conda create -n IOF python=3.9
+pip install opencv-python==4.8.0
+pip install numpy==1.24.1
+pip install scipy==1.11.3
+pip install matplotlib==3.7.2
+
+cd [Your installation directory]
+
+```bash
+python main.py --video-path ./test1.avi
+```
+
 
 
