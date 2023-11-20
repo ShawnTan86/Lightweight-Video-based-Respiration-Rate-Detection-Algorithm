@@ -19,7 +19,7 @@ class RR_Algorithm :
         normalization_y = abs_y / self.N
         normalization_half_y = normalization_y[range(int(self.N / 2))]
         sorted_indices = np.argsort(normalization_half_y)
-        RR = f[sorted_indices[-1]] * 60
+        RR = f[sorted_indices[-2]] * 60
         return RR
 
     # # Peak Counting Method
