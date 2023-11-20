@@ -1,6 +1,4 @@
 import argparse
-import sys
-import json
 
 parser = argparse.ArgumentParser('Lightweight Video-based Respiration Rate Detection Algorithm script', add_help=False)
 parser.add_argument('--video-path', default='./test10.mp4', help='Video input path')
