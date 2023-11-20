@@ -7,9 +7,9 @@ By [Menghan Hu](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp), [Xudong Tan](htt
 If you have any questions, please contact Xudong Tan (shawntannnn@gmail.com).
 
 ## Important Links
-- paper: [Lightweight Video-Based Respiration Rate Detection Algorithm: An Application Case on Intensive Care](https://ieeexplore.ieee.org/abstract/document/10158936)  🎉🎉🎉
 - dataset: [LBRD-IC-Dataset](https://github.com/ShawnTan86/LBRD-IC-Dataset) 🌟🌟🌟
 - demo link: [Scene 1](https://www.youtube.com/watch?v=rpBcFdN-Pbw&t=2s), [Scene 2](https://www.youtube.com/watch?v=tb_ixhTzqvs) 🔥🔥🔥
+- - paper: [Lightweight Video-Based Respiration Rate Detection Algorithm: An Application Case on Intensive Care](https://ieeexplore.ieee.org/abstract/document/10158936)  🎉🎉🎉
 
 ## A Gentle Introduction
 This is a lightweight non-contact respiratory signal detection algorithm suitable for daily use and applicable in ICU scenarios.
