@@ -25,7 +25,9 @@ pip install matplotlib==3.7.2
 ```
 cd [Your installation directory]
 
+```bash
 python main.py --video-path ./test1.avi
+```
 
 
 
