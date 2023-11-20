@@ -4,7 +4,7 @@
 
 By [Menghan Hu](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp), [Xudong Tan](https://scholar.google.com/citations?user=6wfIBLgAAAAJ&hl=zh-CN&oi=sra)
 
-If you have any questions, please contact Menghan Hu(shawntannnn@gmail.com) or Xudong Tan(shawntannnn@gmail.com).
+If you have any questions, please contact Menghan Hu(mhhu@ce.ecnu.edu.cn) or Xudong Tan(shawntannnn@gmail.com).
 
 ## Important Links
 - dataset: [LBRD-IC-Dataset](https://github.com/ShawnTan86/LBRD-IC-Dataset) 🌟🌟🌟
@@ -29,7 +29,3 @@ cd [Your installation directory]
 python main.py --video-path ./test1.avi
 ```
 ![image](https://github.com/ShawnTan86/Lightweight-Video-based-Respiration-Rate-Detection-Algorithm/blob/main/lmagesFolderForReadMe/test2_result.png)
-
-
-
-
