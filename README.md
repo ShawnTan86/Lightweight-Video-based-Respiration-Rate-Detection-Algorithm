@@ -4,7 +4,7 @@
 
 By [Menghan Hu](https://faculty.ecnu.edu.cn/_s15/hmh/main.psp), [Xudong Tan](https://scholar.google.com/citations?user=6wfIBLgAAAAJ&hl=zh-CN&oi=sra)
 
-If you have any questions, please contact Xudong Tan (shawntannnn@gmail.com).
+If you have any questions, please contact Hu Menghan(shawntannnn@gmail.com) or Tan Xudong(shawntannnn@gmail.com).
 
 ## Important Links
 - dataset: [LBRD-IC-Dataset](https://github.com/ShawnTan86/LBRD-IC-Dataset) 🌟🌟🌟
