@@ -26,6 +26,6 @@ pip install matplotlib==3.7.2
 cd [Your installation directory]
 
 ```bash
-python main.py --video-path ./test1.avi
+python main.py --video-path ./test2.mp4
 ```
 ![image](https://github.com/ShawnTan86/Lightweight-Video-based-Respiration-Rate-Detection-Algorithm/blob/main/lmagesFolderForReadMe/test2_result.png)
