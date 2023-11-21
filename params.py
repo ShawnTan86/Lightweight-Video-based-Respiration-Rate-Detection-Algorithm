@@ -1,7 +1,7 @@
 import argparse
 
 parser = argparse.ArgumentParser('Lightweight Video-based Respiration Rate Detection Algorithm script', add_help=False)
-parser.add_argument('--video-path', default='./test10.mp4', help='Video input path')
+parser.add_argument('--video-path', default='./test2.mp4', help='Video input path')
 
 # # Optical flow parameters
 parser.add_argument('--OFP-maxCorners', default=100, type=int, help='')
