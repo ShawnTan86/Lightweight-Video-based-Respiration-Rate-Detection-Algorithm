@@ -63,7 +63,7 @@ def CorrelationGuidedOpticalFlowMethod(FeatureMtx_Amp, RespCurve):
     return CGOF_Mtx_RespCurve
 
 
-def ImproveOptocalFlow(video_path, QualityLevel=0.3, FSS=False, CGOF=False, filter=True, Normalization=False, RR_Evaluation=False):
+def ImproveOpticalFlow(video_path, QualityLevel=0.3, FSS=False, CGOF=False, filter=True, Normalization=False, RR_Evaluation=False):
     video_filename = video_path
 
     cap = cv2.VideoCapture(video_filename)
