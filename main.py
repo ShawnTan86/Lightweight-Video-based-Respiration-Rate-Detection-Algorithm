@@ -2,14 +2,14 @@ import cv2
 import numpy as np
 from params import args
 import matplotlib.pyplot as plt
-from IOF import ImproveOptocalFlow
+from IOF import ImproveOpticalFlow
 
 def main():
     video_path = args.video_path
     cap = cv2.VideoCapture(video_path)
     video_fs = cap.get(5)
 
-    Resp, RR_FFT, RR_PC, RR_CP, RR_NFCP = ImproveOptocalFlow(video_path,
+    Resp, RR_FFT, RR_PC, RR_CP, RR_NFCP = ImproveOpticalFlow(video_path,
                                                            QualityLevel=args.OFP_qualityLevel,
                                                            FSS=True,
                                                            CGOF=True,
