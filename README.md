@@ -29,3 +29,16 @@ cd [Your installation directory]
 python main.py --video-path ./test2.mp4
 ```
 ![image](https://github.com/ShawnTan86/Lightweight-Video-based-Respiration-Rate-Detection-Algorithm/blob/main/lmagesFolderForReadMe/test2_result.png)
+
+## Citation
+```
+@ARTICLE{10158936,
+  author={Tan, Xudong and Hu, Menghan and Zhai, Guangtao and Zhu, Yan and Li, Wenfang and Zhang, Xiao-Ping},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Lightweight Video-Based Respiration Rate Detection Algorithm: An Application Case on Intensive Care}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TMM.2023.3286994}}
+```
