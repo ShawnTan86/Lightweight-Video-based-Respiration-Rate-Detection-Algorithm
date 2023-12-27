@@ -31,6 +31,7 @@ python main.py --video-path ./test2.mp4
 ![image](https://github.com/ShawnTan86/Lightweight-Video-based-Respiration-Rate-Detection-Algorithm/blob/main/lmagesFolderForReadMe/test2_result.png)
 
 ## Citation
+If you use our code for your paper, please cite:
 ```
 @ARTICLE{10158936,
   author={Tan, Xudong and Hu, Menghan and Zhai, Guangtao and Zhu, Yan and Li, Wenfang and Zhang, Xiao-Ping},
